@@ -26,5 +26,5 @@ This is a personal portfolio website built using HTML, CSS, Bootstrap, and JavaS
 
 ---
 
-## Folder Structure
+
 
